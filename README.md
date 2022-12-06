@@ -1,2 +1,3 @@
 # testRep
-simple test
+simple test pour pratiquer github
+## Créer un repository(repertoire)
